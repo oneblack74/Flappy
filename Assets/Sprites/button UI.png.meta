@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: e5e8783a5514eef4c959a1e5ffcf4184
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3445762499347083884
+    second: button UI_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: button UI_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d0e0663413e20d0800000000000000
+      internalID: -3445762499347083884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button UI_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ef1a96e59e0ad4696ec6c82479ce27
+      internalID: -129561552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button UI_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81aaf1c2f78d97e429930275f314f8cd
+      internalID: 1791389002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button UI_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96d83b367f3a2d4b8408e3781a2707d
+      internalID: -1002118864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f1946414ce146c34199fe5d9fa3aa774
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      button UI_0: -3445762499347083884
+      button UI_1: -129561552
+      button UI_10: -2059732055
+      button UI_100: -1361755338
+      button UI_101: -942576379
+      button UI_102: -46952956
+      button UI_103: -1037640720
+      button UI_104: 1287520933
+      button UI_105: 717232669
+      button UI_106: 2044367378
+      button UI_107: -740043132
+      button UI_108: 1862852688
+      button UI_109: 1021073891
+      button UI_11: 1521315774
+      button UI_110: -2141072915
+      button UI_111: 1117844161
+      button UI_112: -2044481337
+      button UI_113: -336228621
+      button UI_114: 240041314
+      button UI_115: 1298376072
+      button UI_116: -371595472
+      button UI_117: -1381657918
+      button UI_118: -1948083575
+      button UI_119: -92063564
+      button UI_12: 115733111
+      button UI_120: 40734622
+      button UI_121: -655275222
+      button UI_122: -87825154
+      button UI_123: 1006631264
+      button UI_124: 2013046772
+      button UI_125: -338637170
+      button UI_126: -1279434076
+      button UI_127: -1644375985
+      button UI_128: -66907132
+      button UI_129: 2079992420
+      button UI_13: 1731927850
+      button UI_130: 402860378
+      button UI_131: -1238758581
+      button UI_132: -709450846
+      button UI_133: -840453675
+      button UI_134: -958897718
+      button UI_135: -1895294846
+      button UI_136: -1315960007
+      button UI_137: 281296617
+      button UI_138: -1236958690
+      button UI_139: -699216885
+      button UI_14: 1082472157
+      button UI_140: -1374714270
+      button UI_141: 1640104951
+      button UI_142: -403537399
+      button UI_15: -1318873870
+      button UI_16: -1002118864
+      button UI_17: -1599006570
+      button UI_18: 315549812
+      button UI_19: -666572227
+      button UI_2: 72047567
+      button UI_20: 753641488
+      button UI_21: -932978298
+      button UI_22: 942041418
+      button UI_23: -1769946767
+      button UI_24: 1893166294
+      button UI_25: 1751810929
+      button UI_26: -548956716
+      button UI_27: 1448007058
+      button UI_28: -630352526
+      button UI_29: -290361567
+      button UI_3: 1791389002
+      button UI_30: 562724819
+      button UI_31: 463888643
+      button UI_32: 263515079
+      button UI_33: 1826592097
+      button UI_34: -1057806394
+      button UI_35: -118514371
+      button UI_36: -1021025989
+      button UI_37: -806291721
+      button UI_38: -669860849
+      button UI_39: -985724176
+      button UI_4: -132423291
+      button UI_40: -1173451004
+      button UI_41: 2030446675
+      button UI_42: -830601232
+      button UI_43: 228749840
+      button UI_44: 407739425
+      button UI_45: 708892695
+      button UI_46: -1753228162
+      button UI_47: 250029977
+      button UI_48: 1186796006
+      button UI_49: -1717706048
+      button UI_5: 1890053847
+      button UI_50: -1652004416
+      button UI_51: 1754379827
+      button UI_52: -629315039
+      button UI_53: -1324558864
+      button UI_54: -1481842441
+      button UI_55: 878637213
+      button UI_56: 1998014577
+      button UI_57: 1977189625
+      button UI_58: -1575462436
+      button UI_59: 1712686727
+      button UI_6: 1222508630
+      button UI_60: -669943181
+      button UI_61: -942486457
+      button UI_62: -1166859193
+      button UI_63: 1345054786
+      button UI_64: 1578842494
+      button UI_65: 1851566189
+      button UI_66: -1057568369
+      button UI_67: -71239885
+      button UI_68: -18441725
+      button UI_69: 801613818
+      button UI_7: -274263156
+      button UI_70: -1808671132
+      button UI_71: 90686076
+      button UI_72: -478611766
+      button UI_73: 1135876646
+      button UI_74: -31013592
+      button UI_75: 1047209091
+      button UI_76: -109139530
+      button UI_77: 1588200157
+      button UI_78: 1276206218
+      button UI_79: 1294257961
+      button UI_8: 1497259059
+      button UI_80: -2109587083
+      button UI_81: 1238957082
+      button UI_82: -2000894018
+      button UI_83: 1936980799
+      button UI_84: -507794190
+      button UI_85: 843844302
+      button UI_86: 1775069593
+      button UI_87: -835766592
+      button UI_88: -453849190
+      button UI_89: 1896233669
+      button UI_9: 1146795616
+      button UI_90: 1809005933
+      button UI_91: 909840982
+      button UI_92: -494461199
+      button UI_93: -1557667894
+      button UI_94: 2094271785
+      button UI_95: -1987773797
+      button UI_96: -2053223634
+      button UI_97: 185371650
+      button UI_98: 136534311
+      button UI_99: -288598955
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
