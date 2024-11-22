@@ -18,6 +18,8 @@ Dans cette vidéo, nous créons ensemble une version simplifiée du célèbre je
 Voici les dossiers principaux dans le projet :
 - **Assets/** : Contient les sprites, les scripts, et autres ressources du jeu.
 - **Scenes/** : La scène principale du jeu.
+- **Animations** : Contient les animations.
+- **Sprites** : Contient les sprites.
 - **Scripts/** : Tous les scripts utilisés pour gérer les mécaniques du jeu.
 - **Prefabs/** : Objets préfabriqués comme le joueur ou les obstacles.
 
