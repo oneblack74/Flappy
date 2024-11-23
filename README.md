@@ -6,7 +6,7 @@ Dans cette vidéo, nous créons ensemble une version simplifiée du célèbre je
 ---
 
 ## 📹 Liens utiles
-- **Vidéo du tutoriel** : [Lien vers la vidéo YouTube](https://www.youtube.com)
+- **Vidéo du tutoriel** : [vidéo YouTube]([https://www.youtube.com](https://youtu.be/tFQN17xk_sM))
 - **Téléchargement Unity** : [Unity Hub](https://unity.com/download)
 - **Assets utilisés dans le projet** :
    - [Flappy Bird Assets par MegaCrash](https://megacrash.itch.io/flappy-bird-assets)
